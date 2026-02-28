@@ -7,7 +7,7 @@ This project was created to demonstrate proficiency in data structures, algorith
 - **Searching Structures**: AVL trees, (2,4) trees, and backtracking algorithms.
 - **Graph Algorithms**: traversals (BFS, DFS), cycle detection, topological sorting, shortest paths (Dijkstra, Bellman‑Ford), minimum spanning trees (Prim, Kruskal), and connectivity (SCC via Kosaraju).
 
-The code is modular, well‑commented, and includes a suite of unit tests. It can be used as a learning tool, a reference implementation, or as the backend for a graphical city navigation application.
+The code is modular, well‑commented, and includes a suite of unit tests.
 
 ---
 
@@ -68,3 +68,4 @@ tree.txt:
 backtrack.txt:
     same format as graph.txt, with an addition of start and end
     The start and end lines define the source and target for the path‑finding demo.
+
