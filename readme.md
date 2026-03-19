@@ -1,4 +1,6 @@
-# Route Optimizer
+![CI](https://github.com/MituAM/Data-structures-and-Algorithms/actions/workflows/ci.yml/badge.svg)
+
+# Data structures and Algorithms
 
 This project was created to demonstrate proficiency in data structures, algorithms, and Python programming. It is inspired by classic computer science curricula. It showcases:
 
